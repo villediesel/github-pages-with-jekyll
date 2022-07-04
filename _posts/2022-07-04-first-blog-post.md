@@ -1,3 +1,8 @@
+---
+title: "My Blog, My Story"
+date: 2022-07-04
+---
+
 # Hello New World!
 
 This is my first blog post. I am trying to get the hang of this GitHub atmosphere.
